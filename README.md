@@ -1,6 +1,6 @@
 ## mokyBox
 
-基于 wokoo 搭建的油猴小工具集
+基于 wokoo 开发的油猴小工具集
 
 网页截图、csdn复制代码、一键看密码、电影天堂直通豆瓣详情页看评分 
 
@@ -8,9 +8,9 @@ https://github.com/booms21/mokyBox.git
 
 ## 使用
 
-1.安装油猴插件 
+1.浏览器安装油猴扩展
 
-3.插件地址： https://greasyfork.org/zh-CN/scripts/457396 
+3.mokyBox插件地址： https://greasyfork.org/zh-CN/scripts/457396 
 
 2.或者打开 https://greasyfork.org/ 油猴市场搜索 mokyBox 进行安装
 
