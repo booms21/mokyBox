@@ -57,7 +57,7 @@ npm run start
 
 1. 打开浏览器，输入`localhost:8080`，查看页面展示是否正常。（本地调试模式某些网站可能会出现跨域问题）
 2. 安装油猴插件
-3. 打开油猴插件编辑界面，将 tampermonkey.js 里的内容复制到编辑框中，保存。
+3. 打开油猴插件编辑界面，将 `tampermonkey.js` 里的内容复制到编辑框中，保存。
 4. 打开任意一个网页，比如csdn或电影天堂验证功能，
 
 - 查看油猴 icon 是否有一个 1 的数字标志，如果有说明油猴脚本已经成功激活
@@ -68,8 +68,9 @@ npm run start
 ```shell
 npm run build
 ```
-把build的产物app.bundle中的代码复制到编辑框中并保存。
+本地：把build的产物app.bundle中的代码复制到编辑框中并保存。 
 
+发布：代码通过`jsdelivr + github`进行cdn托管。
 
 ## 了解更多
 
