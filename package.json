@@ -1,0 +1,36 @@
+{
+  "name": "mokyBox",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "cross-env NODE_ENV=development webpack serve",
+    "build": "webpack"
+  },
+  "dependencies": {
+    "@babel/core": "7.18.13",
+    "@babel/preset-react": "7.18.6",
+    "antd": "^4.22.8",
+    "babel-loader": "8.2.5",
+    "react": "17.0.2",
+    "react-dom": "17.0.2"
+  },
+  "devDependencies": {
+    "@babel/plugin-proposal-class-properties": "7.18.6",
+    "@babel/plugin-proposal-decorators": "7.18.10",
+    "@babel/preset-env": "7.18.10",
+    "cross-env": "7.0.3",
+    "css-loader": "5.2.7",
+    "file-loader": "6.2.0",
+    "html-webpack-plugin": "5.5.0",
+    "less": "4.1.3",
+    "less-loader": "8.1.1",
+    "puppeteer": "^16.2.0",
+    "react-toastify": "^9.1.1",
+    "style-loader": "2.0.0",
+    "url-loader": "4.1.1",
+    "webpack": "5.74.0",
+    "webpack-cli": "4.10.0",
+    "webpack-dev-server": "3.11.3",
+    "webpack-merge": "5.8.0"
+  }
+}

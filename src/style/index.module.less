@@ -1,0 +1,102 @@
+:global(.mb-button) {
+  outline: #007affbf !important;
+  color: #fff !important;
+  background-color: #007aff !important;
+  border-radius: 6px;
+  margin-left: 3px;
+  border: 3px solid #007affbf !important;
+  padding: unset !important;
+}
+
+.mokyBox div{
+  font-size: 12px !important;
+  color: black !important;
+  font-weight: bold !important;
+
+}
+
+.mokyBox {
+  position: fixed;
+  width: 300px;
+  height: 320px;
+  top: 0;
+  right: 0;
+  z-index: 2147483647 !important;
+  overflow-y: auto;
+  background-color: #eeeeee !important;
+  border: #6c4d25 dashed 1px;
+  .tip{
+    color: #d2aa3d !important;
+  }
+  .title {
+    border-bottom: 1px solid;
+    top: 0 !important;;
+    left: 0 !important;;
+  }
+  .mokyBox-main {
+    text-align: left !important;
+    font-weight: bold !important;
+    padding: 0 5px !important;
+    ul{
+       list-style: none !important; 
+          padding: 0 !important;
+            padding-inline-start: 15px !important;
+          }
+    li {
+
+      list-style: none !important;
+      margin-top: 5px;
+      .translateUppercase{
+        width: 100%;
+      }
+    }
+  }
+}
+
+.mokyBox-header {
+  font-weight: bold !important;;
+  padding: 10px !important;;
+  font-size: 13px !important;;
+  color: black ;
+}
+
+.mokyBox-close-icon {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  cursor: pointer;
+}
+.mokyBox-hide {
+  position: fixed;
+  text-align: center !important;;
+  background-color: #096dd9a6;
+  width: 100px;
+  height: 40px;
+  top: 0;
+  right: 0;
+  z-index: 2147483647 !important;
+  font-size: 13px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #fff !important;
+  cursor: pointer;
+}
+@-webkit-keyframes rotateRight {
+
+  0% {
+    -webkit-transform: rotate(0deg);
+  }
+
+  100% {
+    -webkit-transform: rotate(360deg);
+  }
+}
+
+.mokyBox-hide-logo {
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  -webkit-animation: rotateRight 3s linear infinite;
+  margin-right: 10px;
+}
