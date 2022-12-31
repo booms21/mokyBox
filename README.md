@@ -70,7 +70,7 @@ npm run build
 ```
 本地：把build的产物app.bundle中的代码复制到编辑框中并保存。 
 
-发布：代码通过`jsdelivr + github`进行cdn托管。
+发布：代码通过`jsDelivr + github`进行cdn托管。
 
 ## 了解更多
 
