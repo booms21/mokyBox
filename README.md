@@ -10,7 +10,7 @@ https://github.com/booms21/mokyBox.git
 
 1.安装油猴插件 
 
-3.插件地址： https://greasyfork.org/zh-CN/scripts/457396-mokybox%E8%BE%85%E5%8A%A9%E5%B0%8F%E5%B7%A5%E5%85%B7-%E7%BD%91%E9%A1%B5%E6%88%AA%E5%9B%BE-csdn%E5%A4%8D%E5%88%B6%E4%BB%A3%E7%A0%81-%E6%9F%A5%E7%9C%8B%E5%AF%86%E7%A0%81-%E7%94%B5%E5%BD%B1%E5%A4%A9%E5%A0%82%E7%9B%B4%E9%80%9A%E8%B1%86%E7%93%A3%E8%AF%A6%E6%83%85%E9%A1%B5%E7%9C%8B%E8%AF%84%E5%88%86 
+3.插件地址： https://greasyfork.org/zh-CN/scripts/457396 
 
 2.或者打开 https://greasyfork.org/ 油猴市场搜索 mokyBox 进行安装
 
