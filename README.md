@@ -10,9 +10,7 @@ https://github.com/booms21/mokyBox.git
 
 1.浏览器安装油猴扩展
 
-3.mokyBox插件地址： https://greasyfork.org/zh-CN/scripts/457396 
-
-2.或者打开 https://greasyfork.org/ 油猴市场搜索 mokyBox 进行安装
+2.mokyBox插件地址： https://greasyfork.org/zh-CN/scripts/457396。或者打开 https://greasyfork.org/ 油猴市场搜索 mokyBox 进行安装
 
 
 **基础配置：**
@@ -61,7 +59,7 @@ npm run start
 4. 打开任意一个网页，比如csdn或电影天堂验证功能，
 
 - 查看油猴 icon 是否有一个 1 的数字标志，如果有说明油猴脚本已经成功激活
-- 网页的右上角会出现初始页面
+- 网页的右上角会出现初始界面
 
 **构建**
 
