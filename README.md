@@ -4,7 +4,6 @@
 
 网页截图、csdn复制代码、一键看密码、电影天堂直通豆瓣详情页看评分 
 
-https://github.com/booms21/mokyBox.git
 
 ## 使用
 
@@ -66,9 +65,9 @@ npm run start
 ```shell
 npm run build
 ```
-本地：把build的产物app.bundle中的代码复制到编辑框中并保存。 
+本地：把build的产物app.bundle...中的代码复制到编辑框中并保存。 
 
-发布：代码通过`jsDelivr + github`进行cdn托管。
+发布：源码通过`jsDelivr + github`进行cdn托管。
 
 ## 了解更多
 
